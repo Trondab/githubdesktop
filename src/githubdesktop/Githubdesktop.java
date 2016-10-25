@@ -14,4 +14,5 @@ public class Githubdesktop {
 }
 class Github{
     private int number;
+    private String text;
 }
